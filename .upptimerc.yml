@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Ivyoverseas
-    url: https://www.ivyoverseas.com/
+    url: https://www.ivyoverseas.com
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
