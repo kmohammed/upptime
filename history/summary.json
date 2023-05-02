@@ -6,17 +6,15 @@
     "slug": "ivyoverseas",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 469,
-    "timeDay": 527,
-    "timeWeek": 437,
-    "timeMonth": 500,
+    "timeDay": 535,
+    "timeWeek": 444,
+    "timeMonth": 497,
     "timeYear": 469,
-    "dailyMinutesDown": {
-      "2023-05-01": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
