@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ivyoverseas.com.ico",
     "slug": "ivyoverseas",
     "status": "up",
-    "uptime": "99.26%",
+    "uptime": "99.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.11%",
-    "time": 788,
-    "timeDay": 1269,
-    "timeWeek": 1158,
-    "timeMonth": 1190,
-    "timeYear": 863,
+    "time": 789,
+    "timeDay": 1309,
+    "timeWeek": 1172,
+    "timeMonth": 1186,
+    "timeYear": 865,
     "dailyMinutesDown": {
       "2025-05-11": 146,
       "2025-02-13": 881,
@@ -25,8 +25,7 @@
       "2025-02-08": 1440,
       "2025-02-07": 457,
       "2024-09-15": 933,
-      "2024-09-14": 362,
-      "2024-08-31": 24
+      "2024-09-14": 362
     }
   }
 ]
